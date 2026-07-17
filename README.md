@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="30%">
-      <img src="photo.png" width="220" style="border-radius:50%;" alt="Dravid Ranjan A M">
+      <img src="./photo.png" width="220" style="border-radius:50%;" alt="Dravid Ranjan A M">
     </td>
     <td>
 
