@@ -13,7 +13,7 @@
 
 ### Student · Developer · Builder
 
-    </td>
+    
   </tr>
 </table>
 *I build things that are useful, thoughtful, and occasionally ambitious.*
