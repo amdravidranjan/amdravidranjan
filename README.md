@@ -1,10 +1,21 @@
 <div align="center">
 
+<table>
+  <tr>
+    <td width="30%">
+      <img src="photo.jpg" width="220" style="border-radius:50%;" alt="Dravid Ranjan A M">
+    </td>
+    <td>
+
 # Hi, I'm Dravid Ranjan A M 👋
 
-### [Portfolio Website - Click Here](https://amdravidranjan.netlify.app/)
+### <a href="https://amdravidranjan.netlify.app/">Portfolio Website - Click Here</a>
+
 ### Student · Developer · Builder
 
+    </td>
+  </tr>
+</table>
 *I build things that are useful, thoughtful, and occasionally ambitious.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amdravidranjan/)
