@@ -9,7 +9,7 @@
 
 # Hi, I'm Dravid Ranjan A M 👋
 
-### <a href="https://amdravidranjan.netlify.app/">Portfolio Website - Click Here</a>
+### <a href="https://portfolio.amdravidranjan.me/">Portfolio Website - Click Here</a>
 
 ### Student · Developer · Builder
 
