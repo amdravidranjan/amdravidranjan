@@ -86,6 +86,9 @@ A feature-rich Snake game built entirely in **pure C** using Raylib. Showcases m
 
 `C` `Raylib` `Systems Programming` `Procedural Generation`
 
+**Live Site**: [https://amdravidranjan.itch.io/snakeyy](https://amdravidranjan.itch.io/snakeyy)
+Your Wifi provider might block this, as it is a gaming site. Use your own Wifi if you are not able to access.
+
 ---
 
 ##  Tech Stack
@@ -98,9 +101,6 @@ A feature-rich Snake game built entirely in **pure C** using Raylib. Showcases m
 | **AI / ML** | Machine Learning, Skill-based Prediction Models |
 | **UI / UX** | Glassmorphism, AOS, Swiper.js, Vanilla Tilt.js |
 | **Tools** | Git, GitHub Actions, Expo CLI, npm |
-
-**Live Site**: [https://amdravidranjan.itch.io/snakeyy](https://amdravidranjan.itch.io/snakeyy)
-Your Wifi provider might block this, as it is a gaming site. Use your own Wifi if you are not able to access.
 
 ---
 
