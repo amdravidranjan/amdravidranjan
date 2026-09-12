@@ -7,7 +7,7 @@
     </td>
     <td>
 
-# Hi, I'm Dravid Ranjan A M 👋
+# Hi, I'm Dravid Ranjan A M 
 
 ### <a href="https://portfolio.amdravidranjan.me/">Portfolio Website - Click Here</a>
 
@@ -26,21 +26,21 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a student developer who builds across the full stack — from mobile apps and web platforms to ML-powered tools. I care about making things that actually solve problems for real people, whether that's a cognitive training app, a career path predictor, or a bilingual website that gives a local small business its first digital presence.
 
-- 🧠 Built **Neurolift**, a cognitive training platform with 15+ gamified brain exercises (React Native + Expo)
-- 🤖 Developed an **Microservices based Banking architecture** that has around 5 services that interact with each other to provide a banking experience.
-- 🌐 Deployed a **bilingual Tamil/English website** for a local women's tailoring business — live and serving real customers
-- 🎯 Interested in **Web Development**, **AI / ML**, and **Cybersecurity**
-- 🌱 Always building, always learning
+-  Built **Neurolift**, a cognitive training platform with 15+ gamified brain exercises (React Native + Expo)
+-  Developed an **Microservices based Banking architecture** that has around 5 services that interact with each other to provide a banking experience.
+-  Deployed a **bilingual Tamil/English website** for a local women's tailoring business — live and serving real customers
+-  Interested in **Web Development**, **AI / ML**, and **Cybersecurity**
+-  Always building, always learning
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 [Neurolift — Cognitive Training App](https://github.com/amdravidranjan/neurolift)
+### [Neurolift — Cognitive Training App](https://github.com/amdravidranjan/neurolift)
 > *React Native · Expo · TypeScript · Vercel*
 
 An all-rounder brain training platform with **15+ gamified exercises** targeting memory, attention, logic, processing speed, and cognitive flexibility. Highlights include:
@@ -58,7 +58,7 @@ An all-rounder brain training platform with **15+ gamified exercises** targeting
 
 ---
 
-### 🧵 [Sri Balaji Ladies Tailoring — Business Website](https://github.com/amdravidranjan/Women_Tailoring_Shop)
+###  [Sri Balaji Ladies Tailoring — Business Website](https://github.com/amdravidranjan/Women_Tailoring_Shop)
 > *HTML · CSS · Vanilla JS · Vercel*
 
 More than a project — this is a tribute to my mother, the sole earning member of our family and the driving force behind her tailoring business in Karur (established 2016). I built this to give her work the visibility it deserves and to help grow her training institute.
@@ -79,7 +79,7 @@ Features include:
 
 ---
 
-### 🐍 [Snakey — Advanced Snake Game](https://github.com/amdravidranjan/Snakey-C_based_advanced_snakegame)
+### [Snakey — Advanced Snake Game](https://github.com/amdravidranjan/Snakey-C_based_advanced_snakegame)
 > *C · Raylib*
 
 A feature-rich Snake game built entirely in **pure C** using Raylib. Showcases modular C architecture, AI opponent logic, and procedural maze generation across 5 game modes. Built with teammates Guhanesh & Gopinath.
@@ -88,7 +88,7 @@ A feature-rich Snake game built entirely in **pure C** using Raylib. Showcases m
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Domain | Technologies |
 |---|---|
@@ -99,16 +99,19 @@ A feature-rich Snake game built entirely in **pure C** using Raylib. Showcases m
 | **UI / UX** | Glassmorphism, AOS, Swiper.js, Vanilla Tilt.js |
 | **Tools** | Git, GitHub Actions, Expo CLI, npm |
 
+**Live Site**: [https://amdravidranjan.itch.io/snakeyy](https://amdravidranjan.itch.io/snakeyy)
+Your Wifi provider might block this, as it is a gaming site. Use your own Wifi if you are not able to access.
+
 ---
 
 
-## 📫 Let's Connect
+##  Let's Connect
 
 If you're working on something in Web Development, AI/ML, or Cybersecurity — or need help giving a small business its first digital presence — feel free to reach out.
 
-- 📧 [amdravidranjan@gmail.com](mailto:amdravidranjan@gmail.com)
-- 💼 [linkedin.com/in/amdravidranjan](https://www.linkedin.com/in/amdravidranjan/)
-- 🐙 [github.com/amdravidranjan](https://github.com/amdravidranjan)
+-  [amdravidranjan@gmail.com](mailto:amdravidranjan@gmail.com)
+-  [linkedin.com/in/amdravidranjan](https://www.linkedin.com/in/amdravidranjan/)
+-  [github.com/amdravidranjan](https://github.com/amdravidranjan)
 
 ---
 
